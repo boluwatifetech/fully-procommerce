@@ -1,0 +1,15 @@
+.covereach-item{
+    background-color:black;
+    padding:20px;
+    
+    color:white;
+    border-radius:10px;
+}
+.images{
+    max-height:100%;
+    max-width:100%;
+}
+.images img{
+    width:200px;
+    height:150px;
+}

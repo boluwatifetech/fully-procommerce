@@ -1,0 +1,30 @@
+export const data=[
+    {
+        id:1,
+        name:'cap',
+        images:'images/cap14.jpeg',
+        price:53,
+        category:'cap'
+    },
+    {
+        id:2,
+        name:'cap',
+        images:'images/cap29.jpeg',
+        price:25,
+        category:'cap',
+    },
+    {
+        id:3,
+        name:'headphone',
+        images:'images/head4.jpeg',
+        price:90,
+        category:'head',
+    },
+    {
+        id:4,
+        name:'headset',
+        images:'images/head3.jpeg',
+        price:16,
+        category:'head'
+    },
+]

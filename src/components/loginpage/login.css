@@ -1,0 +1,63 @@
+.coverall-login{
+    height:100vh;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    background-color:cadetblue;
+    display:flex;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+
+.each-login p{
+margin-bottom:10px;
+font-size:16px;
+text-transform:capitalize;
+}
+.each-login input{
+    margin-bottom:30px;
+    width:250px;
+    height:20px;
+}
+.login-me{
+    background:white;
+    max-width:100%;
+    width:400px;
+    
+    padding:20px 30px;
+    border-radius:9px;
+    box-shadow:3px 4px 3px 4px rgb(73, 55, 55);
+}
+.para{
+    font-size:15px;
+    font-weight:400;
+    line-height:28px;
+    text-transform:capitalize;
+
+}
+.signIn-btn{
+    margin-bottom:20px;
+}
+.btn button{
+    padding:15px 50px;
+    outline:none;
+    cursor:pointer;
+    border:none;
+    background:cyan;
+    border-radius:5px;
+    transition:all 1s ease;
+}
+.btn button:hover{
+    color:white;
+    background:rgb(58, 136, 136);
+}
+.register-btn{
+    margin-top:15px;
+}
+.cover-contentlogin{
+    text-align:center;
+}

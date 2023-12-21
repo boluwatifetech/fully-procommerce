@@ -1,0 +1,23 @@
+.item-area{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    place-items:center;
+    justify-items:center;
+    
+    align-items:center;
+    gap:40px;
+    margin-top:30px;
+}
+.btn-container{
+    text-align:center;
+    margin-top:30px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+}
+.btn-container button{
+    margin-right:15px;
+cursor:pointer;
+}
+

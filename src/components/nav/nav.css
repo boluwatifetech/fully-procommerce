@@ -1,0 +1,51 @@
+.cover-allnav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:10px 90px;
+background:black;
+}
+
+.nav-img img{
+height:40px;
+width:80px;
+}
+.login{
+    text-decoration:none;
+    color:white;
+}
+.remaining-nav{
+    display:flex;
+justify-content:space-between;
+
+}
+.search-nav input{
+width:400px;
+height:20px;
+}
+.search-nav button{
+    height:25px;
+    cursor:pointer;
+    width:50px;
+}
+.single-nav{
+    color:white;
+    margin-right:10px;
+}
+.single-nav h3{
+    font-size:15px;
+}
+.basket{
+    color:white;
+}
+.basket{
+    display:flex;
+    align-items:center;
+}
+.basket small{
+    margin-right:5px;
+}
+.link-basket{
+    text-decoration:none;
+    color:white;
+}

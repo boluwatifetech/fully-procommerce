@@ -1,0 +1,21 @@
+.images{
+    max-height:100%;
+    max-width:100%;
+}
+.images img{
+    width:200px;
+    height:150px;
+
+}
+.coverall-checkout{
+    padding:20px 60px;
+    display:flex;
+    justify-content:space-between;
+}
+.main-product{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    
+}
+
+
